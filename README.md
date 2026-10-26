@@ -18,19 +18,15 @@ The projects shown here are selected documentation of practical work rather than
 ## Gallery
 
 ### RC Aircraft
-![RC Aircraft](01-RC-Aircraft/RC_aircraft.jpg)
+![RC Aircraft](RC_aircraft.jpg)
 
-### FPV Drone Build
-![FPV Drone](02-FPV-Drone/FPV_drone_build.jpg)
+![FPV Drone](FPV_drone_build.jpg)
 
-### FPV Drone Frame
-![FPV Drone Frame](02-FPV-Drone/FPV_drone_frame.jpg)
+![FPV Drone Frame](FPV_drone_frame.jpg)
 
-### CAD Design
-![CAD Model](03-CAD-Design/CAD_model.png)
+![CAD Model](CAD_model.png)
 
-### Volunteer Recognition
-![Recognition](04-Recognition/volunteer_recognition.jpg)
+![Recognition](volunteer_recognition.jpg)
 
 ## Volunteer Work
 
